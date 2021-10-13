@@ -11,12 +11,11 @@
 - Digital Signal Processing
 - Additive Synthesis
 
-## Operating Systems
+## I'm using:
 - Windows 10
 - Arch Linux (w/ KDE Plasma)
 - Android 11
 
-## Software
 - Neovim
 - Blender
 - Unity
