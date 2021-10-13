@@ -1,16 +1,27 @@
-### Hi there 👋
+### working hard or hardly working?
 
-<!--
-**maxliu42/maxliu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages:
+# Python
+# C# (mostly Unity)
+# C++
+# HTML/CSS/JS
 
-Here are some ideas to get you started:
+## Interests
+# Game Design
+# Linux
+# Electronic Music
+# Digital Signal Processing
+# Additive Synthesis
+# 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I use...
+### OS
+# Windows 10
+# Arch Linux (w/ KDE Plasma)
+# Android 11
+### Software
+# Neovim
+# Blender
+# Unity
+# FL Studio 20
+# Ableton Live 10
