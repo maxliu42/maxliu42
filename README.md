@@ -1,21 +1,24 @@
-## Languages:
+## 👋 Hi, I'm Max!
+
+## 🗣️ Languages:
 - Python
 - C# (mostly Unity)
 - C++
 - HTML/CSS/JS
 
-## Interests
+## 😀 Interests
 - Game Design
 - Linux
 - Electronic Music
 - Digital Signal Processing
 - Additive Synthesis
 
-## I'm using:
+## 🖥️ I'm using:
 - Windows 10
 - Arch Linux (w/ KDE Plasma)
 - Android 11
 
+## ✏️ Software:
 - Neovim
 - Blender
 - Unity
