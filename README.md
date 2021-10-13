@@ -1,5 +1,3 @@
-### working hard or hardly working?
-
 ## Languages:
 - Python
 - C# (mostly Unity)
