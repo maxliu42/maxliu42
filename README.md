@@ -12,6 +12,7 @@
 - Electronic Music
 - Digital Signal Processing
 - Additive Synthesis
+- Competitive programming and mathematics
 
 ## 🖥️ I'm using:
 - Windows 10
