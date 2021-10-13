@@ -11,4 +11,4 @@
 - Linux (Booting Arch, Ubuntu, Windows)
 - Electronic Music
 - Digital Signal Processing/Additive Synthesis
-- Competitive programming and mathematics
+- Competitive Programming and Math
