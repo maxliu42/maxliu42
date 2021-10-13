@@ -8,20 +8,7 @@
 
 ## 😀 Interests
 - Game Design
-- Linux
+- Linux (Booting Arch, Ubuntu, Windows)
 - Electronic Music
-- Digital Signal Processing
-- Additive Synthesis
+- Digital Signal Processing/Additive Synthesis
 - Competitive programming and mathematics
-
-## 🖥️ I'm using:
-- Windows 10
-- Arch Linux (w/ KDE Plasma)
-- Android 11
-
-## ✏️ Software:
-- Neovim
-- Blender
-- Unity
-- FL Studio 20
-- Ableton Live 10
