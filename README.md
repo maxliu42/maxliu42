@@ -10,5 +10,5 @@
 - Game Design
 - Linux (Booting Arch, Ubuntu, Windows)
 - Electronic Music
-- Digital Signal Processing/Additive Synthesis
+- Digital Signal Processing
 - Competitive Programming and Math
