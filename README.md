@@ -8,7 +8,7 @@
 
 ## 😀 Interests
 - Game Design
-- Linux (Booting Arch, Ubuntu, Windows)
+- Linux (Booting Arch, Windows)
 - Electronic Music
 - Digital Signal Processing
 - Competitive Programming and Math
