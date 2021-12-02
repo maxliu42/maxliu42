@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max!
 
-Grade 12 Canadian student interested in computer science and music
+Grade 12 Canadian student interested in computer science and music!
 
 ## 🗣️ Languages:
 - Python
