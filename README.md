@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Max!
-
-Grade 12 Canadian student interested in computer science and music!
+utm cs (?) '26
 
 ## 🗣️ Languages:
 - Python
@@ -10,7 +8,4 @@ Grade 12 Canadian student interested in computer science and music!
 
 ## 😀 Interests
 - Game Design
-- Linux (Booting Arch, Windows)
 - Electronic Music
-- Digital Signal Processing
-- Competitive Programming and Math
