@@ -1,9 +1,8 @@
-utm cs (?) '26
+utm cs '26
 
 ## 🗣️ Languages:
 - Python
 - C# (mostly Unity)
-- C++
 - HTML/CSS/JS
 
 ## 😀 Interests
