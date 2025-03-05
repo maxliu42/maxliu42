@@ -1,6 +1,6 @@
 Hi! 👋 I'm Max, a third year Computer Science student at the University of Toronto.
 
-I'm passionate about full-stack software development, machine learning, and game design. Currently exploring opportunities in full-stack development.
+I'm passionate about full-stack software development, machine learning, and game design. Currently exploring opportunities in full-stack development. You can learn more about me at [my website](https://maxliu.me/). 
 
 ## 🗣️ Languages
 - JavaScript/TypeScript
